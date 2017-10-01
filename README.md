@@ -1,4 +1,4 @@
-# IsysNaive
+# Tripadvisor Naive Bayes 
 
 A Naive-Bayes-Classifier trained with subreviews from TripAdvisor to calculate a overall rating based on given subratings.
 
@@ -32,7 +32,15 @@ Now you can start the program with forced training by using the `--ft` flag like
 ```
 $ python __init__.py --ft
 ```
-
+## Project Members
+- Matthias Herrmann (Naive Bayes Implementierung mit nltk)
+- Sarah Kocher (Weboberfläche)
+- Benedikt Straser (RESTful Server)
 ## License
 
 [MIT License](LICENSE)
+
+Attribution for the ratings data from tripadvisor:
+
+Hongning Wang, Yue Lu and ChengXiang Zhai. Latent Aspect Rating Analysis without Aspect Keyword Supervision. The 17th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2011), P618-626, 2011.
+Hongning Wang, Yue Lu and Chengxiang Zhai. Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach. The 16th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2010), p783-792, 2010.
