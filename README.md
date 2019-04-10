@@ -35,7 +35,7 @@ $ python __init__.py --ft
 ## Project Members
 - Matthias Herrmann (Naive Bayes Implementierung mit nltk)
 - Sarah Kocher (Weboberfläche)
-- Benedikt Straser (RESTful Server)
+- Benedikt Strasser (RESTful Server)
 ## License
 
 [MIT License](LICENSE)
